@@ -1,10 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import DisplayData from './DisplayData';
-import './styles.css';
+// import DisplayData from './Day1/DisplayData';
+import LoopOverArray from './Day2/LoopOverArray';
 
 function App() {
-	return <DisplayData />;
+	return (
+		<div>
+			{/* <DisplayData />; */}
+			<LoopOverArray />
+		</div>
+	);
 }
 
 const rootElement = document.getElementById('root');

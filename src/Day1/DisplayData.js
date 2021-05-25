@@ -1,4 +1,5 @@
 import ScotchInfoBar from './ScotchInfoBar';
+import './styles.css';
 
 /**
  * Our data
