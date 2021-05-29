@@ -4,7 +4,8 @@ import ReactDOM from 'react-dom';
 // import LoopOverArray from './Day2/LoopOverArray';
 // import UpdateDOM from './Day3/UpdateDOM';
 // import Alert from './Day4/Alert';
-import Calculator from './Day5/Calculator';
+// import Calculator from './Day5/Calculator';
+import MoveBox from './Day6/MoveBox';
 
 function App() {
 	return (
@@ -13,7 +14,8 @@ function App() {
 			{/* <LoopOverArray /> */}
 			{/* <UpdateDOM /> */}
 			{/* <Alert /> */}
-			<Calculator />
+			{/* <Calculator /> */}
+			<MoveBox />
 		</div>
 	);
 }
