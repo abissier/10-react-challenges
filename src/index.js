@@ -5,7 +5,8 @@ import ReactDOM from 'react-dom';
 // import UpdateDOM from './Day3/UpdateDOM';
 // import Alert from './Day4/Alert';
 // import Calculator from './Day5/Calculator';
-import MoveBox from './Day6/MoveBox';
+// import MoveBox from './Day6/MoveBox';
+import API from './Day7/API';
 
 function App() {
 	return (
@@ -15,7 +16,8 @@ function App() {
 			{/* <UpdateDOM /> */}
 			{/* <Alert /> */}
 			{/* <Calculator /> */}
-			<MoveBox />
+			{/* <MoveBox /> */}
+			<API />
 		</div>
 	);
 }
